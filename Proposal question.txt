@@ -1,0 +1,14 @@
+The proposal aims to test your understanding of the concepts, characteristics, and relevant technologies in Cloud Computing. Moreover, your ability to design a cloud-based application with a reasonable budget will be assessed. The project proposal must NOT exceed two A4 pages and it should include the following sections:
+• Introduction:
+o Give background information about this project: What is this project about?
+o Explain the motivation of this project: Why is this project important?
+o Describe the overall objective and features of the project: What features does this project have?
+o Explain the limitations of traditional computing solutions: Why doesn’t traditional computing solve the problem well?
+o Explain the benefits brought by cloud computing: How does cloud computing fit into this project?
+• Technical Solutions:
+o Describe what cloud technologies you’ve used in this project (e.g., k8s for the front-end app, NoSQL for the back-end data storage).
+o Provide a monthly cost estimation of all the cloud resources used in this project (e.g., costs of VMs, K8s cluster, networking, Load Balancers, etc.).
+• Architecture Design:
+o Depict the workflow or framework of the project in a figure (e.g., micro-service framework).
+
+My analytic type: a data-analytic application using computing models for Big Data.(Jupyter Notebook + Python + Spark SQL )
